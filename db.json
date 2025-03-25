@@ -1,0 +1,164 @@
+{
+  "contact": [
+    {
+      "name": "Ömer Keskin",
+      "position": "Frontend Developer",
+      "company": "Udemig",
+      "phone": "+90 555 444 33 22",
+      "email": "öbk@gm",
+      "id": 1
+    },
+    {
+      "id": 2,
+      "name": "Ahmet Yılmaz",
+      "position": "Backend Developer",
+      "company": "TechSoft",
+      "phone": "+90 534 678 21 90",
+      "email": "ahmet.yilmaz@techsoft.com"
+    },
+    {
+      "id": 3,
+      "name": "Zeynep Demir",
+      "position": "UI/UX Designer",
+      "company": "CodeLab",
+      "phone": "+90 552 312 44 89",
+      "email": "zeynep.demir@codelab.com"
+    },
+    {
+      "id": 4,
+      "name": "Mehmet Kaya",
+      "position": "Full Stack Developer",
+      "company": "InnovateTech",
+      "phone": "+90 532 987 65 43",
+      "email": "mehmet.kaya@innovatetech.com"
+    },
+    {
+      "id": 5,
+      "name": "Elif Arslan",
+      "position": "Data Scientist",
+      "company": "BigData Corp",
+      "phone": "+90 545 876 54 32",
+      "email": "elif.arslan@bigdata.com"
+    },
+    {
+      "id": 6,
+      "name": "Burak Çelik",
+      "position": "Cyber Security Analyst",
+      "company": "SecureNet",
+      "phone": "+90 551 234 56 78",
+      "email": "burak.celik@securenet.com"
+    },
+    {
+      "id": 7,
+      "name": "Gamze Koç",
+      "position": "Mobile App Developer",
+      "company": "AppGen",
+      "phone": "+90 554 765 43 21",
+      "email": "gamze.koc@appgen.com"
+    },
+    {
+      "id": 8,
+      "name": "Okan Erdem",
+      "position": "DevOps Engineer",
+      "company": "CloudBase",
+      "phone": "+90 533 876 54 21",
+      "email": "okan.erdem@cloudbase.com"
+    },
+    {
+      "id": 9,
+      "name": "Serkan Aydın",
+      "position": "System Administrator",
+      "company": "NetSystems",
+      "phone": "+90 550 432 12 34",
+      "email": "serkan.aydin@netsystems.com"
+    },
+    {
+      "id": 10,
+      "name": "Ayşe Çetin",
+      "position": "AI Engineer",
+      "company": "DeepMind AI",
+      "phone": "+90 539 654 32 10",
+      "email": "ayse.cetin@deepmindai.com"
+    },
+    {
+      "id": 11,
+      "name": "Hakan Demirtaş",
+      "position": "Software Tester",
+      "company": "TestPro",
+      "phone": "+90 555 321 45 67",
+      "email": "hakan.demirtas@testpro.com"
+    },
+    {
+      "id": 12,
+      "name": "Gizem Akın",
+      "position": "Cloud Architect",
+      "company": "CloudWorks",
+      "phone": "+90 532 765 12 89",
+      "email": "gizem.akin@cloudworks.com"
+    },
+    {
+      "id": 13,
+      "name": "Kerem Yıldırım",
+      "position": "Game Developer",
+      "company": "GameWorld",
+      "phone": "+90 556 432 78 90",
+      "email": "kerem.yildirim@gameworld.com"
+    },
+    {
+      "id": 14,
+      "name": "Nihan Soylu",
+      "position": "IT Project Manager",
+      "company": "Agile Solutions",
+      "phone": "+90 531 123 45 67",
+      "email": "nihan.soylu@agilesolutions.com"
+    },
+    {
+      "id": 15,
+      "name": "Cemal Doğan",
+      "position": "Embedded Systems Engineer",
+      "company": "IoT Innovations",
+      "phone": "+90 558 987 65 43",
+      "email": "cemal.dogan@iotinnovations.com"
+    },
+    {
+      "name": "Fırat ŞABAHAT",
+      "position": "Backend Developer",
+      "company": "Udemig Akademi",
+      "phone": "+90331 271 89 98",
+      "email": "frts@gmail.com",
+      "id": 16
+    },
+    {
+      "name": "Murat ŞABAHAT",
+      "position": "React Developer",
+      "company": "Udemig",
+      "phone": "555 444 33 22",
+      "email": "megem@icloud.com",
+      "id": 17
+    },
+    {
+      "name": "Zeynep ŞABAHAT",
+      "position": "Backend developer",
+      "company": "Emarteechs",
+      "phone": "555 444 33 22",
+      "email": "tatli@gmail.com",
+      "id": 20
+    },
+    {
+      "name": "Alperen Durmuş",
+      "position": "Backend Developer",
+      "company": "Credit Online",
+      "phone": "05550222044011",
+      "email": "alp.com",
+      "id": 21
+    },
+    {
+      "name": "Semih Durmuş",
+      "position": "Fullstack developer",
+      "company": "Udemig Akademi",
+      "phone": "05550333022066",
+      "email": "semih.com",
+      "id": 22
+    }
+  ]
+}
